@@ -61,5 +61,4 @@ $ kill -HUP $(cat /var/run/sshd.pid)
 Please note that the location of /var/run/sshd.pid may change. 
 So just search a bit through /var/run/ directory.
 
-Please note that the location of /var/run/sshd.pid may change. 
-So just search a bit through /var/run/ directory.
+#####END OF SNIPPET 3:31 PM 9/12/2017
