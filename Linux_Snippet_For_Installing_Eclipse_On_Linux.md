@@ -1,9 +1,9 @@
 # mylinux
+---
+# LINUX SNIPPET FOR 
 
-
-# LINUX SNIPPETS FOR 
-
-## TO Install Eclipse on Oracle Linux
+## To Install Eclipse on Oracle Linux
+---
 
 ### If you've downloaded Eclipse from their official website, follow these steps for the installation.
 

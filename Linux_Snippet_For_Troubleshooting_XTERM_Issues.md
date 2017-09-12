@@ -1,9 +1,9 @@
 # mylinux
+---
+# LINUX SNIPPET FOR 
 
-
-# LINUX SNIPPETS FOR 
-
-## TO xterm font tweak to supress and fix a font error
+## HowTo tweak `xterm` to supress and fix a font error
+---
 
 
 ### error message before

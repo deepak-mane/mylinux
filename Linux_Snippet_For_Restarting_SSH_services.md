@@ -1,9 +1,9 @@
 # mylinux
-
-
+---
 # LINUX SNIPPET FOR 
 
 ## HowTo: Restart SSH Service under Linux / UNIX operating systems
+---
 
 The command to restart ssh are as follows (you must login as root user). 
 
